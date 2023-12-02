@@ -1,0 +1,6 @@
+06:58:50.604 [main] ERROR com.bsuir.kirillpastukhou.webappfilms.command.impl.AddCommentCommand - Cannot add or update a child row: a foreign key constraint fails (`test_db`.`comment`, CONSTRAINT `FK_Comment_User` FOREIGN KEY (`username`) REFERENCES `user` (`login`) ON DELETE SET NULL ON UPDATE CASCADE)
+07:00:56.683 [main] ERROR com.bsuir.kirillpastukhou.webappfilms.command.impl.AddCommentCommand - Cannot add or update a child row: a foreign key constraint fails (`test_db`.`comment`, CONSTRAINT `FK_Comment_User` FOREIGN KEY (`username`) REFERENCES `user` (`login`) ON DELETE SET NULL ON UPDATE CASCADE)
+20:07:06.492 [main] ERROR com.bsuir.kirillpastukhou.webappfilms.command.impl.RegistrationCommand - Duplicate entry 'test_user' for key 'user.login_UNIQUE'
+19:53:15.720 [http-nio-8080-exec-9] ERROR com.bsuir.kirillpastukhou.webappfilms.command.impl.SignInCommand - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.

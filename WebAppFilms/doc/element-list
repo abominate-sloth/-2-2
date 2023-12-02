@@ -1,0 +1,10 @@
+com.bsuir.kirillpastukhou.webappfilms.beans
+com.bsuir.kirillpastukhou.webappfilms.command
+com.bsuir.kirillpastukhou.webappfilms.command.impl
+com.bsuir.kirillpastukhou.webappfilms.connectionpool
+com.bsuir.kirillpastukhou.webappfilms.controller
+com.bsuir.kirillpastukhou.webappfilms.dao
+com.bsuir.kirillpastukhou.webappfilms.dao.impl
+com.bsuir.kirillpastukhou.webappfilms.exception
+com.bsuir.kirillpastukhou.webappfilms.filter
+com.bsuir.kirillpastukhou.webappfilms.listener
